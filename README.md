@@ -1,7 +1,7 @@
 ## Test Otomasyon Eğitimi ve Gerçek Proje Deneyimi  (YHT EBilet)
 
 
-**GİB TEKNOLOJİ**'de **Test Automation Mühendisi** olarak çalışıyor ve aynı zamanda kurum içindeki arkadaşlarıma **test otomasyonu eğitimleri** veriyorum. Eğitime başlarken, arkadaşlarıma en gerçekçi deneyimi sunabilmek için **canlı ortamda çalışan YHT E-Bilet sitesini** seçtim. Otomasyonun, güncelliğini koruyan ve gerçek kullanıcı senaryolarıyla birebir örtüşen bir sistem üzerinden öğrenilmesi, teoriden pratiğe geçiş için oldukça değerli. 
+**GİB TEKNOLOJİ**'de **Test Otomasyon Mühendisi(SDET)** olarak çalışıyor ve aynı zamanda kurum içindeki arkadaşlarıma **test otomasyonu eğitimleri** veriyorum. Eğitime başlarken, arkadaşlarıma en gerçekçi deneyimi sunabilmek için **canlı ortamda çalışan YHT E-Bilet sitesini** seçtim. Otomasyonun, güncelliğini koruyan ve gerçek kullanıcı senaryolarıyla birebir örtüşen bir sistem üzerinden öğrenilmesi, teoriden pratiğe geçiş için oldukça değerli. 
 
 İlk etapta canlı bir sistemle çalışarak **sahaya en yakın deneyimi** kazandırmak önemliydi. Proje bitiminde ise eğitimleri kurum içi projeler üzerinden sürdüreceğiz.. **Test otomasyonu dünyasında** bilgiyi paylaşmanın ve birlikte öğrenmenin gücüne inanıyoruz. Eğitimimizin amacı, test ekibini test süreçlerinde daha güçlü ve bağımsız hale gelmesini sağlamak..  🚀✨  
 
