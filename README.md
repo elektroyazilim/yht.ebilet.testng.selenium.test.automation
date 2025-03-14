@@ -13,3 +13,5 @@ Bu projede  **Page Object Pattern** yaklaşımlarından  **PomManager** yöntemi
 
 Bu projede, test otomasyon altyapısı için **Selenium Java** ile birlikte **TestNG framework** kullanılmıştır. En güncel teknolojileri takip ederek, Selenium ve diğer kütüphanelerin en son sürümleri projeye entegre edilmiştir. Böylece, modern ve sürdürülebilir bir test ortamı oluşturulmuştur.
 
+Herhangi bir sorunuz olursa iletişime geçebilirsiniz : https://www.linkedin.com/in/esmayilmazqa/
+
